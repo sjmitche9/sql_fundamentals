@@ -1,0 +1,1 @@
+This repository contains the lecture information for SQL Fundamentals, W1 D2
