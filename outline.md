@@ -51,6 +51,7 @@ GROUP BY category_id;
   - INNER JOIN
   - [LEFT || RIGHT] OUTER JOIN
   - Default join is INNER
+  - Visualizer: https://joins.spathon.com/
 
 ```sql
 SELECT *
